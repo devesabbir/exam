@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ih8l0s');
+  src:  url('fonts/icomoon.eot?ih8l0s#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ih8l0s') format('truetype'),
+    url('fonts/icomoon.woff?ih8l0s') format('woff'),
+    url('fonts/icomoon.svg?ih8l0s#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-plane:before {
+  content: "\e90a";
+}
+.icon-telephone1:before {
+  content: "\e90b";
+}
+.icon-placeholder1:before {
+  content: "\e90c";
+}
+.icon-comment:before {
+  content: "\e90d";
+}
+.icon-user2:before {
+  content: "\e90e";
+}
+.icon-weekly-calendar:before {
+  content: "\e90f";
+}
+.icon-star1:before {
+  content: "\e910";
+}
+.icon-right-quote-sign:before {
+  content: "\e911";
+}
+.icon-review:before {
+  content: "\e912";
+}
+.icon-strategy-in-a-labyrinth:before {
+  content: "\e913";
+}
+.icon-profit-analysis:before {
+  content: "\e914";
+}
+.icon-strategy:before {
+  content: "\e915";
+}
+.icon-play:before {
+  content: "\e909";
+}
+.icon-dollars-money-bag-with-a-clock:before {
+  content: "\e908";
+}
+.icon-home-insurance:before {
+  content: "\e900";
+}
+.icon-user1:before {
+  content: "\e901";
+}
+.icon-medal-of-award:before {
+  content: "\e902";
+}
+.icon-loupe:before {
+  content: "\e903";
+}
+.icon-down-arrow:before {
+  content: "\e904";
+}
+.icon-clock:before {
+  content: "\e905";
+}
+.icon-call:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e907";
+}
